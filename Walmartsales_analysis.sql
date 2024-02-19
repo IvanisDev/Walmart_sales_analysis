@@ -21,9 +21,7 @@ CREATE TABLE sales(
 );
 
 -- Data cleaning
-SELECT
-	*
-FROM sales;
+SELECT * FROM sales;
 
 
 -- Add the time_of_day column
